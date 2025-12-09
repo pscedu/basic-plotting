@@ -1,4 +1,4 @@
-# basic-plotting
+# basic-plotting - Plotting for Data Scientists
 
 A collection of simple, clear, and reusable **plotting examples** using Python and Jupyter notebooks.  
 This repository is maintained by the **Biomed Apps** group and is intended to serve as a reference for generating high-quality figures for scientific computing, data analysis, education, and documentation.
